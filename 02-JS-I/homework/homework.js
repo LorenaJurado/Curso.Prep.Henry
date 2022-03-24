@@ -164,6 +164,7 @@ return redondearNumero
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
+  console.log('test');
 redondearHaciaArriba = Math.ceil(num)
 return redondearHaciaArriba
 }
